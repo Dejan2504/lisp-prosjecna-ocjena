@@ -17,3 +17,7 @@ Unijeti ovu komandu u console i pratiti dalje upute
 ```bash
 ./cl-project-template/rename.sh my-cl-project
 ```
+
+##
+
+Powered by me :)
